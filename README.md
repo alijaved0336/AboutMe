@@ -6,7 +6,6 @@ I’m a **Lead Full Stack & AI Engineer**. I build SaaS products, AI workflows t
 
 ## Selected work
 
-- **[PowerRay](https://github.com/alijaved0336/powerray-project)** · Document Q&A with source citations and role-based access.
 - **[AcwaPower Nomac](https://github.com/alijaved0336/acwapower-nomac-project)** · Industrial IoT analytics, from event deduplication to faster ClickHouse queries.
 - **[Calculum](https://github.com/alijaved0336/calculum-project)** · Procurement workflows for comparing supplier payment terms and reviewing recommendations.
 - **[UBU](https://github.com/alijaved0336/ubu-project)** · A marketplace connecting brands and creators through onboarding, campaigns, and real-time messaging.
